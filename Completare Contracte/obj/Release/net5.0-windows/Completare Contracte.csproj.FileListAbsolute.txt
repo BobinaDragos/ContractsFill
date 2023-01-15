@@ -1,0 +1,42 @@
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.exe
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.deps.json
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.runtimeconfig.json
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.dll
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\ref\Completare Contracte.dll
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.pdb
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.csproj.ResolveComReference.cache
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare_Contracte.Form1.resources
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.dll
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\ref\Completare Contracte.dll
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.pdb
+C:\Users\Dragos\Desktop\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.genruntimeconfig.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.exe
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.deps.json
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.runtimeconfig.json
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\bin\Release\net5.0-windows\Completare Contracte.pdb
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.csproj.ResolveComReference.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare_Contracte.Form1.resources
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\refint\Completare Contracte.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.pdb
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\Completare Contracte.genruntimeconfig.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Contracte\Completare Contracte\Completare Contracte\obj\Release\net5.0-windows\ref\Completare Contracte.dll
